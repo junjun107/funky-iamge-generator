@@ -2,7 +2,7 @@
 
 Use openAI API and JavaScript to build a AI image generator
 
-[Link to project](https://zany-tan-brown-bear-tam.cyclic.app)
+[Link to project](https://puffer-shoe.cyclic.app)
 
 ![alt tag](https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png)
 
