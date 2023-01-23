@@ -2,13 +2,16 @@
 
 Use openAI API and JavaScript to build a AI image generator
 
-[Link to project](https://zany-tan-brown-bear-tam.cyclic.app)
+[Link to project](https://puffer-shoe.cyclic.app)
 
 ![alt tag](https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png)
 
 ## How does it work
 
-Openai trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language. Example prompt: Cat with umbrella in kimono in bamboo garden will generate am image like below:
+A text-based AI image generator web app is a web application that utilizes the OpenAI image generator API to generate images based on a given text description. 
+The app allows users to input a text description of an image, and the API generates a new image that corresponds to the description. The generated images are created using state-of-the-art machine learning techniques and can be used for a variety of purposes such as training machine learning models or creating new designs. The advantage of this approach is that it allows the generation of images that are not limited to a pre-existing dataset, allowing for a greater degree of flexibility and creativity.
+
+Example prompt: Cat with umbrella in kimono in bamboo garden will generate am image like below:
 
 ![alt tag](https://res.cloudinary.com/dhhiphscp/image/upload/c_scale,w_226/v1670700083/portfolio/cat_with_umbrella_in_kimono_in_bamboo_garden_xuegam.png)
 
